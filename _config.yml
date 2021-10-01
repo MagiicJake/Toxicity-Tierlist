@@ -33,6 +33,11 @@ header_pages:
   - 01_home.md
   - 02_tierlists.md
 
+pages:
+  - 01_home.md
+  - 02_tierlists.md
+  - tierlist/august-21.md
+
 # Build settings
 # theme: minima
 

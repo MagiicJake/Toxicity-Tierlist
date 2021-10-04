@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tierlist - August 2021
+title: August 2021
 permalink: tierlist/august-21/
 ---
 

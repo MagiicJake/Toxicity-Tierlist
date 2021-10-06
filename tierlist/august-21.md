@@ -10,28 +10,30 @@ permalink: tierlist/august-21/
 ![tierlist-aug-21](../images/toxicity-aug-21.png)
 
 
-### Gains and Losses
+### Rankings
 
-| Name | August | Gain/Loss | September
+| Name | August 1 | Gain/Loss | August 31
 |:--------:|--------|-----|--------|
-| Anton | 10 | x | M.I.A.
+| Falco | Chemo | Cytostatica | Chemo
 | Chris | 8 | +7 | 1
-| Coen | 16 | x | M.I.A. 
-| Cooper | 2 | -8 | 10
+| Melle | 7 | +5 | 2
+| Jun | 1 | -2 | 3
+| Lowi | 9 | +5 | 4
+| Simon | 6 | +1 | 5
+| Mitch | 5 | -1 | 6
 | Dion | 4 | -3 | 7
 | Emiel | 3 | -5 | 8
-| Falco | Chemo | Cytostatica | Beating C
-| Jun | 1 | -2 | 3
-| Killian | 12 | x | M.I.A.
-| Lowi | 9 | +5 | 4
-| Matthew | 13 | x | M.I.A. 
-| Melle | 7 | +5 | 2
-| Mitch | 5 | -1 | 6
-| Nick | 10 | -1 | 11
-| Raoel | 15 | x | M.I.A.
-| Simon | 6 | +1 | 5
-| Thijn | 14 | +0 | 14
-| Tolga | 11 | -1 | 12
 | Tom | 13 | +4 | 9
+| Cooper | 2 | -8 | 10
+| Nick | 10 | -1 | 11
+| Tolga | 11 | -1 | 12
 | Tony | 12 | -1 | 13
+| Thijn | 14 | +0 | 14
+| Anton | 10 | x | M.I.A.
+| Coen | 16 | x | M.I.A. 
+| Killian | 12 | x | M.I.A.
+| Matthew | 13 | x | M.I.A. 
+| Raoel | 15 | x | M.I.A.
+
+
 

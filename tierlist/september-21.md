@@ -4,8 +4,10 @@ title: September 2021
 permalink: tierlist/september-21/
 ---
 
-# **September 2021**
-![tierlist-sept-21](../images/toxicity-sep-21.png)
+## **September 2021**
+
+### Tierlist
+![tierlist-sep-21](../images/toxicity-sep-21.png)
 
 
 ### Rankings

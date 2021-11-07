@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ## **Most Recent Tierlist**
-### September 2021
+### October 2021
 ![tierlist-oct-21](./images/toxicity-oct-21.png)
 
 ## **Current Standings**

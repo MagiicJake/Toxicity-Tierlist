@@ -4,7 +4,7 @@ title: November 2021
 permalink: tierlist/november-21/
 ---
 
-## **October 2021**
+## **November 2021**
 
 ### Tierlist
 ![tierlist-nov-21]()

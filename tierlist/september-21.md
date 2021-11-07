@@ -29,4 +29,6 @@ permalink: tierlist/september-21/
 | Dion | 7 | -5 | 12
 | Thijn | 14 | +1 | 13
 | Coen | M.I.A. | x | 14
+| Lowi | 4 | x | M.I.A.
+| Matthew | M.I.A. | x | M.I.A.
 

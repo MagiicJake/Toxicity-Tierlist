@@ -14,7 +14,7 @@ permalink: tierlist/september-21/
 
 | Name | September 1 | Gain/Loss | September 30
 |:--------:|--------|-----|--------|
-| Falco | Chemo | Cytostatica | Chemo
+| Falco | Chemo | +Cytostatica | Chemo
 | Chris | 1 | +0 | 1
 | Emiel | 8 | +6 | 2
 | Tolga | 12 | +9 | 3

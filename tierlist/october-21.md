@@ -16,7 +16,7 @@ permalink: tierlist/october-21/
 
 | Name | October 1 | Gain/Loss | October 30
 |:--------:|--------|-----|--------|
-| Falco | Chemo | Cytostatica | Chemo
+| Falco | Chemo | +Cytostatica | Chemo
 | Melle | 6 | +5 | 1
 | Chris | 1 | -1 | 2
 | Mitch | 5 | +2 | 3

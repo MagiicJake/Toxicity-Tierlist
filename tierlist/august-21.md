@@ -14,7 +14,7 @@ permalink: tierlist/august-21/
 
 | Name | August 1 | Gain/Loss | August 31
 |:--------:|--------|-----|--------|
-| Falco | Chemo | Cytostatica | Chemo
+| Falco | Chemo | +Cytostatica | Chemo
 | Chris | 8 | +7 | 1
 | Melle | 7 | +5 | 2
 | Jun | 1 | -2 | 3

@@ -10,3 +10,4 @@ permalink: tierlists/
 * [September 2021](../tierlist/september-21/)
 * [October 2021](../tierlist/october-21/)
 * [November 2021](../tierlist/november-21/)
+* [December 2021](../tierlist/december-21/)

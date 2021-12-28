@@ -5,8 +5,8 @@ permalink: /
 ---
 
 ## **Most Recent Tierlist**
-### October 2021
-![tierlist-oct-21](./images/toxicity-oct-21.png)
+### November 2021
+![tierlist-nov-21](./images/toxicity-nov-21.png)
 
 ## **Current Standings**
-[November Excel Sheet](https://docs.google.com/spreadsheets/d/1Ce520IyJMybWWc20tF7vexOxxB6HrJR1/edit#gid=551464434)
+[December Excel Sheet](https://docs.google.com/spreadsheets/d/1Ce520IyJMybWWc20tF7vexOxxB6HrJR1/edit#gid=551464434)

@@ -16,7 +16,6 @@ permalink: tierlist/november-21/
 
 | Name | November 1 | Gain/Loss | November 30
 |:--------:|--------|-----|--------|
-
 | Chris | 2 | -1 | 1
 | Mitch | 3 | -1 | 2
 | Nick | 7 | -4 | 3

@@ -16,19 +16,20 @@ permalink: tierlist/november-21/
 
 | Name | November 1 | Gain/Loss | November 30
 |:--------:|--------|-----|--------|
-| Falco | Chemo | -Cancer | 14
+
 | Chris | 2 | -1 | 1
 | Mitch | 3 | -1 | 2
+| Nick | 7 | -4 | 3
+| Emiel | 6 | -2 | 4
+| Cooper | M.I.A. | x | 5
+| Dion | 8 | -2 | 6
 | Jun | 4 | +3 | 7
 | Tolga | 5 | +3 | 8
-| Emiel | 6 | -2 | 4
-| Nick | 7 | -4 | 3
-| Dion | 8 | -2 | 6
+| Tony | 11 | -2 | 9
 | Tom | 9 | +1 | 10
 | Lowi | 10 | +1 | 11
-| Tony | 11 | -2 | 9
 | Simon | 12 | +0 | 12
-| Cooper | M.I.A. | x | 5
 | Thijn | M.I.A. | x | 13
+| Falco | Chemo | -Cancer | 14
 | Coen | M.I.A. | x | M.I.A.
 

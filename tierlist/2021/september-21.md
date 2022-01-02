@@ -7,7 +7,7 @@ permalink: tierlist/2021/september-21/
 ## **September 2021**
 
 ### Tierlist
-![tierlist-sep-21](../images/2021/toxicity-sep-21.png)
+![tierlist-sep-21](../../images/2021/toxicity-sep-21.png)
 
 ### Rankings
 

@@ -7,7 +7,7 @@ permalink: tierlist/2021/august-21/
 ## **August 2021**
 
 ### Tierlist
-![tierlist-aug-21](../images/2021/toxicity-aug-21.png)
+![tierlist-aug-21](../../images/2021/toxicity-aug-21.png)
 
 ### Rankings
 

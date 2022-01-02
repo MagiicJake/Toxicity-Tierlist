@@ -7,7 +7,7 @@ permalink: tierlist/2021/november-21/
 ## **November 2021**
 
 ### Tierlist
-![tierlist-nov-21](../images/2021/toxicity-nov-21.png)
+![tierlist-nov-21](../../images/2021/toxicity-nov-21.png)
 
 ### Excel Sheet
 [Excel Sheet](https://docs.google.com/spreadsheets/d/1Ce520IyJMybWWc20tF7vexOxxB6HrJR1/edit#gid=551464434)

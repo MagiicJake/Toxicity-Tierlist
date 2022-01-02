@@ -1,7 +1,7 @@
 ---
 layout: page
 title: December 2021
-permalink: tierlist/december-21/
+permalink: tierlist/2021/december-21/
 ---
 
 ## **December 2021**

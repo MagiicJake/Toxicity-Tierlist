@@ -1,7 +1,7 @@
 ---
 layout: page
 title: January 2022
-permalink: tierlist/january-22/
+permalink: tierlist/2022/january-22/
 ---
 
 ## **January 2022**

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: September 2021
-permalink: tierlist/september-21/
+permalink: tierlist/2021/september-21/
 ---
 
 ## **September 2021**
